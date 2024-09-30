@@ -15,8 +15,6 @@ The **Pump.fun Smart Contract forking** is an innovative platform  designed to a
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/dappsol/pump.fun-smart-contract.git
-   cd pump.fun-smart-contract
    ```
 
 2. Running:

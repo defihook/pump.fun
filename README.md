@@ -11,16 +11,5 @@ The **Pump.fun Smart Contract forking** is an innovative platform  designed to a
 - **Spam Detection**: Automatically catch and handle spammers making transactions to the OpenBook market.
 - **Discord Integration**: Receive real-time notifications on Discord via webhooks.
 
-### Installation
-
-1. Clone the repository:
-   ```bash
-   ```
-
-2. Running:
-   ```bash
-   cargo build
-   anchor deploy
-   ```
 
 ### Please fork to use it and follow me on github.

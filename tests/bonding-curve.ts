@@ -9,7 +9,7 @@ import keys from '../keys/users.json'
 import key2 from '../keys/user2.json'
 import { ASSOCIATED_PROGRAM_ID, TOKEN_PROGRAM_ID } from "@coral-xyz/anchor/dist/cjs/utils/token";
 
-// const connection = new Connection("https://api.devnet.solana.com")
+const connection = new Connection("https://api.devnet.solana.com")
 const connection = new Connection("http://localhost:8899")
 const curveSeed = "CurveConfiguration"
 const POOL_SEED_PREFIX = "liquidity_pool"
